@@ -1,0 +1,25 @@
+{
+    "name": "File Publisher",
+    "owner": "WSO2",
+    "category": "Analytics Publisher",
+    "documentationUrl": "https://docs.wso2.com/display/ANALYTICSEXTENSIONS/File+Output+Event+Publisher",
+    "description": "The File event publisher writes the output events in XML, text, and JSON formats in the file.",
+    "status": "Active",
+    "labels": [
+        "Publisher",
+        "Analytics",
+        "isProductCategories/publisher",
+        "productVersion/cep410",
+        "productVersion/cep420",
+        "productVersion/das310"
+    ],
+    "releases": [
+        {
+            "tagName": "1.0.0",
+            "products": [
+                "CEP 4.1.0",
+                "CEP 4.2.0"
+            ]
+        }
+    ]
+}
